@@ -13,7 +13,7 @@
   "repository": "github:adobe/aem-react-editable-components",
   "homepage": "https://docs.adobe.com/content/help/en/experience-manager-65/developing/headless/spas/spa-reference-materials.html",
   "bugs": {
-    "url": "https://github.com/adobe/aem-react-editable-components/issues"
+    "url": "https://github.com/abhishekdixitadobe/aem-react-editable-components/"
   },
   "engines": {
     "npm": ">=8.7.0",
