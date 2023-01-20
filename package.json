@@ -50,7 +50,7 @@
     "web-vitals": "^2.1.4"
   },
   "peerDependencies": {
-    "@adobe/aem-spa-page-model-manager": "abhishekdixitadobe/aem-spa-page-model-manager",
+    "@adobe/aem-spa-page-model-manager": "abhishekdixitadobe/aem-spa-page-model-manager"
   },
   "devDependencies": {
     "@adobe/aem-spa-page-model-manager": "abhishekdixitadobe/aem-spa-page-model-manager",
